@@ -1,0 +1,15 @@
+asgiref==3.6.0
+autopep8==2.0.1
+dj-database-url==0.5.0
+Django==2.2
+gunicorn==21.2.0
+packaging==23.2
+Pillow==9.3.0
+# psycopg-binary==3.1.6S
+# psycopg2-binary==2.9.5
+pycodestyle==2.10.0
+python-dotenv==0.21.0
+pytz==2022.7
+sqlparse==0.4.3
+tomli==2.0.1
+typing_extensions==4.9.0
